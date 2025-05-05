@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <InstrumentMap>
   <string name="name" value="Symphony Brass Ensemble Trombones Staccato" wide="true" />
   <member name="controller">
@@ -7,7 +7,7 @@
   <member name="slotvisuals">
     <int name="ownership" value="1" />
     <list name="obj" type="obj">
-      <obj class="USlotVisuals" ID="110632855">
+      <obj class="USlotVisuals" ID="83613489">
         <int name="displaytype" value="1" />
         <int name="articulationtype" value="1" />
         <int name="symbol" value="0" />
@@ -15,7 +15,7 @@
         <string name="text" value="IDLE" wide="true" />
         <string name="description" value="IDLE" wide="true" />
       </obj>
-      <obj class="USlotVisuals" ID="106691667">
+      <obj class="USlotVisuals" ID="86270142">
         <int name="displaytype" value="1" />
         <int name="articulationtype" value="1" />
         <int name="symbol" value="0" />
@@ -23,7 +23,7 @@
         <string name="text" value="Staccato" wide="true" />
         <string name="description" value="Staccato" wide="true" />
       </obj>
-      <obj class="USlotVisuals" ID="27502064">
+      <obj class="USlotVisuals" ID="87456919">
         <int name="displaytype" value="1" />
         <int name="articulationtype" value="1" />
         <int name="symbol" value="0" />
@@ -31,7 +31,7 @@
         <string name="text" value="Staccato p" wide="true" />
         <string name="description" value="Staccato p" wide="true" />
       </obj>
-      <obj class="USlotVisuals" ID="50857163">
+      <obj class="USlotVisuals" ID="4889861">
         <int name="displaytype" value="1" />
         <int name="articulationtype" value="1" />
         <int name="symbol" value="0" />
@@ -39,7 +39,7 @@
         <string name="text" value="Staccato F" wide="true" />
         <string name="description" value="Staccato F" wide="true" />
       </obj>
-      <obj class="USlotVisuals" ID="125460378">
+      <obj class="USlotVisuals" ID="103793126">
         <int name="displaytype" value="1" />
         <int name="articulationtype" value="1" />
         <int name="symbol" value="0" />
@@ -47,7 +47,7 @@
         <string name="text" value="Staccato Velocity" wide="true" />
         <string name="description" value="Staccato Velocity" wide="true" />
       </obj>
-      <obj class="USlotVisuals" ID="34196620">
+      <obj class="USlotVisuals" ID="77823312">
         <int name="displaytype" value="1" />
         <int name="articulationtype" value="1" />
         <int name="symbol" value="0" />
@@ -55,7 +55,7 @@
         <string name="text" value="Stac. Dbl. Tongue" wide="true" />
         <string name="description" value="Stac. Dbl. Tongue" wide="true" />
       </obj>
-      <obj class="USlotVisuals" ID="53905665">
+      <obj class="USlotVisuals" ID="103996902">
         <int name="displaytype" value="1" />
         <int name="articulationtype" value="1" />
         <int name="symbol" value="0" />
@@ -63,7 +63,7 @@
         <string name="text" value="Stac. Triple Tongue" wide="true" />
         <string name="description" value="Stac. Triple Tongue" wide="true" />
       </obj>
-      <obj class="USlotVisuals" ID="84369913">
+      <obj class="USlotVisuals" ID="116952154">
         <int name="displaytype" value="1" />
         <int name="articulationtype" value="1" />
         <int name="symbol" value="0" />
@@ -71,7 +71,7 @@
         <string name="text" value="Stac. Bend Down" wide="true" />
         <string name="description" value="Stac. Bend Down" wide="true" />
       </obj>
-      <obj class="USlotVisuals" ID="24959800">
+      <obj class="USlotVisuals" ID="130086250">
         <int name="displaytype" value="1" />
         <int name="articulationtype" value="1" />
         <int name="symbol" value="0" />
@@ -84,13 +84,13 @@
   <member name="slots">
     <int name="ownership" value="1" />
     <list name="obj" type="obj">
-      <obj class="PSoundSlot" ID="20358154">
-        <int name="color" value="0" />
-        <obj class="PSlotThruTrigger" name="remote" ID="81776791">
+      <obj class="PSoundSlot" ID="101716296">
+        <int name="color" value="1" />
+        <obj class="PSlotThruTrigger" name="remote" ID="66593701">
           <int name="status" value="144" />
           <int name="data1" value="-1" />
         </obj>
-        <obj class="PSlotMidiAction" name="action" ID="10957525">
+        <obj class="PSlotMidiAction" name="action" ID="97716971">
           <int name="version" value="600" />
           <int name="channel" value="-1" />
           <int name="minVelocity" value="0" />
@@ -104,7 +104,7 @@
           <member name="noteChanger">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="PSlotNoteChanger" ID="124996857">
+              <obj class="PSlotNoteChanger" ID="58181433">
                 <int name="channel" value="-1" />
                 <int name="minVelocity" value="0" />
                 <int name="maxVelocity" value="127" />
@@ -126,7 +126,7 @@
         <member name="sv">
           <int name="ownership" value="2" />
           <list name="obj" type="obj">
-            <obj class="USlotVisuals" ID="56211714">
+            <obj class="USlotVisuals" ID="23898124">
               <int name="displaytype" value="1" />
               <int name="articulationtype" value="1" />
               <int name="symbol" value="0" />
@@ -137,13 +137,13 @@
           </list>
         </member>
       </obj>
-      <obj class="PSoundSlot" ID="20673429">
-        <int name="color" value="0" />
-        <obj class="PSlotThruTrigger" name="remote" ID="80760579">
+      <obj class="PSoundSlot" ID="52912595">
+        <int name="color" value="1" />
+        <obj class="PSlotThruTrigger" name="remote" ID="106512562">
           <int name="status" value="144" />
           <int name="data1" value="-1" />
         </obj>
-        <obj class="PSlotMidiAction" name="action" ID="85672101">
+        <obj class="PSlotMidiAction" name="action" ID="73604521">
           <int name="version" value="600" />
           <int name="channel" value="-1" />
           <int name="minVelocity" value="0" />
@@ -157,7 +157,7 @@
           <member name="noteChanger">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="PSlotNoteChanger" ID="98405989">
+              <obj class="PSlotNoteChanger" ID="55216349">
                 <int name="channel" value="-1" />
                 <int name="minVelocity" value="0" />
                 <int name="maxVelocity" value="127" />
@@ -172,7 +172,7 @@
           <member name="midiMessages">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="POutputEvent" ID="127815554">
+              <obj class="POutputEvent" ID="63449222">
                 <int name="status" value="144" />
                 <int name="data1" value="24" />
                 <int name="data2" value="120" />
@@ -186,7 +186,7 @@
         <member name="sv">
           <int name="ownership" value="2" />
           <list name="obj" type="obj">
-            <obj class="USlotVisuals" ID="29344106">
+            <obj class="USlotVisuals" ID="65374643">
               <int name="displaytype" value="1" />
               <int name="articulationtype" value="1" />
               <int name="symbol" value="0" />
@@ -197,13 +197,13 @@
           </list>
         </member>
       </obj>
-      <obj class="PSoundSlot" ID="7168358">
-        <int name="color" value="0" />
-        <obj class="PSlotThruTrigger" name="remote" ID="57132444">
+      <obj class="PSoundSlot" ID="101988215">
+        <int name="color" value="1" />
+        <obj class="PSlotThruTrigger" name="remote" ID="32058755">
           <int name="status" value="144" />
           <int name="data1" value="-1" />
         </obj>
-        <obj class="PSlotMidiAction" name="action" ID="96118621">
+        <obj class="PSlotMidiAction" name="action" ID="71753052">
           <int name="version" value="600" />
           <int name="channel" value="-1" />
           <int name="minVelocity" value="0" />
@@ -217,7 +217,7 @@
           <member name="noteChanger">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="PSlotNoteChanger" ID="28315969">
+              <obj class="PSlotNoteChanger" ID="43027919">
                 <int name="channel" value="-1" />
                 <int name="minVelocity" value="0" />
                 <int name="maxVelocity" value="127" />
@@ -232,7 +232,7 @@
           <member name="midiMessages">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="POutputEvent" ID="23160615">
+              <obj class="POutputEvent" ID="8351480">
                 <int name="status" value="144" />
                 <int name="data1" value="25" />
                 <int name="data2" value="120" />
@@ -246,7 +246,7 @@
         <member name="sv">
           <int name="ownership" value="2" />
           <list name="obj" type="obj">
-            <obj class="USlotVisuals" ID="57513360">
+            <obj class="USlotVisuals" ID="69519975">
               <int name="displaytype" value="1" />
               <int name="articulationtype" value="1" />
               <int name="symbol" value="0" />
@@ -257,13 +257,13 @@
           </list>
         </member>
       </obj>
-      <obj class="PSoundSlot" ID="88039401">
-        <int name="color" value="0" />
-        <obj class="PSlotThruTrigger" name="remote" ID="4348855">
+      <obj class="PSoundSlot" ID="130738449">
+        <int name="color" value="1" />
+        <obj class="PSlotThruTrigger" name="remote" ID="608309">
           <int name="status" value="144" />
           <int name="data1" value="-1" />
         </obj>
-        <obj class="PSlotMidiAction" name="action" ID="47981214">
+        <obj class="PSlotMidiAction" name="action" ID="70213950">
           <int name="version" value="600" />
           <int name="channel" value="-1" />
           <int name="minVelocity" value="0" />
@@ -277,7 +277,7 @@
           <member name="noteChanger">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="PSlotNoteChanger" ID="65250471">
+              <obj class="PSlotNoteChanger" ID="64929021">
                 <int name="channel" value="-1" />
                 <int name="minVelocity" value="0" />
                 <int name="maxVelocity" value="127" />
@@ -292,7 +292,7 @@
           <member name="midiMessages">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="POutputEvent" ID="90076780">
+              <obj class="POutputEvent" ID="41806422">
                 <int name="status" value="144" />
                 <int name="data1" value="26" />
                 <int name="data2" value="120" />
@@ -306,7 +306,7 @@
         <member name="sv">
           <int name="ownership" value="2" />
           <list name="obj" type="obj">
-            <obj class="USlotVisuals" ID="43694558">
+            <obj class="USlotVisuals" ID="113943516">
               <int name="displaytype" value="1" />
               <int name="articulationtype" value="1" />
               <int name="symbol" value="0" />
@@ -317,13 +317,13 @@
           </list>
         </member>
       </obj>
-      <obj class="PSoundSlot" ID="129237940">
-        <int name="color" value="0" />
-        <obj class="PSlotThruTrigger" name="remote" ID="114405063">
+      <obj class="PSoundSlot" ID="83999129">
+        <int name="color" value="1" />
+        <obj class="PSlotThruTrigger" name="remote" ID="82653976">
           <int name="status" value="144" />
           <int name="data1" value="-1" />
         </obj>
-        <obj class="PSlotMidiAction" name="action" ID="64110680">
+        <obj class="PSlotMidiAction" name="action" ID="17400957">
           <int name="version" value="600" />
           <int name="channel" value="-1" />
           <int name="minVelocity" value="0" />
@@ -337,7 +337,7 @@
           <member name="noteChanger">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="PSlotNoteChanger" ID="85667464">
+              <obj class="PSlotNoteChanger" ID="21186802">
                 <int name="channel" value="-1" />
                 <int name="minVelocity" value="0" />
                 <int name="maxVelocity" value="127" />
@@ -352,7 +352,7 @@
           <member name="midiMessages">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="POutputEvent" ID="117087639">
+              <obj class="POutputEvent" ID="12362477">
                 <int name="status" value="144" />
                 <int name="data1" value="27" />
                 <int name="data2" value="120" />
@@ -366,7 +366,7 @@
         <member name="sv">
           <int name="ownership" value="2" />
           <list name="obj" type="obj">
-            <obj class="USlotVisuals" ID="67684938">
+            <obj class="USlotVisuals" ID="40072820">
               <int name="displaytype" value="1" />
               <int name="articulationtype" value="1" />
               <int name="symbol" value="0" />
@@ -377,13 +377,13 @@
           </list>
         </member>
       </obj>
-      <obj class="PSoundSlot" ID="59792708">
-        <int name="color" value="0" />
-        <obj class="PSlotThruTrigger" name="remote" ID="96359858">
+      <obj class="PSoundSlot" ID="66980735">
+        <int name="color" value="1" />
+        <obj class="PSlotThruTrigger" name="remote" ID="12552611">
           <int name="status" value="144" />
           <int name="data1" value="-1" />
         </obj>
-        <obj class="PSlotMidiAction" name="action" ID="616135">
+        <obj class="PSlotMidiAction" name="action" ID="57281776">
           <int name="version" value="600" />
           <int name="channel" value="-1" />
           <int name="minVelocity" value="0" />
@@ -397,7 +397,7 @@
           <member name="noteChanger">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="PSlotNoteChanger" ID="35930656">
+              <obj class="PSlotNoteChanger" ID="90301109">
                 <int name="channel" value="-1" />
                 <int name="minVelocity" value="0" />
                 <int name="maxVelocity" value="127" />
@@ -412,7 +412,7 @@
           <member name="midiMessages">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="POutputEvent" ID="35312013">
+              <obj class="POutputEvent" ID="78916031">
                 <int name="status" value="144" />
                 <int name="data1" value="28" />
                 <int name="data2" value="120" />
@@ -426,7 +426,7 @@
         <member name="sv">
           <int name="ownership" value="2" />
           <list name="obj" type="obj">
-            <obj class="USlotVisuals" ID="92858746">
+            <obj class="USlotVisuals" ID="25223290">
               <int name="displaytype" value="1" />
               <int name="articulationtype" value="1" />
               <int name="symbol" value="0" />
@@ -437,13 +437,13 @@
           </list>
         </member>
       </obj>
-      <obj class="PSoundSlot" ID="33710238">
-        <int name="color" value="0" />
-        <obj class="PSlotThruTrigger" name="remote" ID="24469368">
+      <obj class="PSoundSlot" ID="11227513">
+        <int name="color" value="1" />
+        <obj class="PSlotThruTrigger" name="remote" ID="26078135">
           <int name="status" value="144" />
           <int name="data1" value="-1" />
         </obj>
-        <obj class="PSlotMidiAction" name="action" ID="47276138">
+        <obj class="PSlotMidiAction" name="action" ID="58677521">
           <int name="version" value="600" />
           <int name="channel" value="-1" />
           <int name="minVelocity" value="0" />
@@ -457,7 +457,7 @@
           <member name="noteChanger">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="PSlotNoteChanger" ID="131412354">
+              <obj class="PSlotNoteChanger" ID="42399365">
                 <int name="channel" value="-1" />
                 <int name="minVelocity" value="0" />
                 <int name="maxVelocity" value="127" />
@@ -472,7 +472,7 @@
           <member name="midiMessages">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="POutputEvent" ID="7687292">
+              <obj class="POutputEvent" ID="6639598">
                 <int name="status" value="144" />
                 <int name="data1" value="29" />
                 <int name="data2" value="120" />
@@ -486,7 +486,7 @@
         <member name="sv">
           <int name="ownership" value="2" />
           <list name="obj" type="obj">
-            <obj class="USlotVisuals" ID="39558182">
+            <obj class="USlotVisuals" ID="115167977">
               <int name="displaytype" value="1" />
               <int name="articulationtype" value="1" />
               <int name="symbol" value="0" />
@@ -497,13 +497,13 @@
           </list>
         </member>
       </obj>
-      <obj class="PSoundSlot" ID="88403691">
-        <int name="color" value="0" />
-        <obj class="PSlotThruTrigger" name="remote" ID="29863279">
+      <obj class="PSoundSlot" ID="106205409">
+        <int name="color" value="1" />
+        <obj class="PSlotThruTrigger" name="remote" ID="101901839">
           <int name="status" value="144" />
           <int name="data1" value="-1" />
         </obj>
-        <obj class="PSlotMidiAction" name="action" ID="85009254">
+        <obj class="PSlotMidiAction" name="action" ID="41905974">
           <int name="version" value="600" />
           <int name="channel" value="-1" />
           <int name="minVelocity" value="0" />
@@ -517,7 +517,7 @@
           <member name="noteChanger">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="PSlotNoteChanger" ID="8361794">
+              <obj class="PSlotNoteChanger" ID="24813358">
                 <int name="channel" value="-1" />
                 <int name="minVelocity" value="0" />
                 <int name="maxVelocity" value="127" />
@@ -532,7 +532,7 @@
           <member name="midiMessages">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="POutputEvent" ID="96634229">
+              <obj class="POutputEvent" ID="91124460">
                 <int name="status" value="144" />
                 <int name="data1" value="30" />
                 <int name="data2" value="120" />
@@ -546,7 +546,7 @@
         <member name="sv">
           <int name="ownership" value="2" />
           <list name="obj" type="obj">
-            <obj class="USlotVisuals" ID="125460728">
+            <obj class="USlotVisuals" ID="123680487">
               <int name="displaytype" value="1" />
               <int name="articulationtype" value="1" />
               <int name="symbol" value="0" />
@@ -557,13 +557,13 @@
           </list>
         </member>
       </obj>
-      <obj class="PSoundSlot" ID="30242242">
-        <int name="color" value="0" />
-        <obj class="PSlotThruTrigger" name="remote" ID="38255715">
+      <obj class="PSoundSlot" ID="92884699">
+        <int name="color" value="1" />
+        <obj class="PSlotThruTrigger" name="remote" ID="11208403">
           <int name="status" value="144" />
           <int name="data1" value="-1" />
         </obj>
-        <obj class="PSlotMidiAction" name="action" ID="108686039">
+        <obj class="PSlotMidiAction" name="action" ID="31749378">
           <int name="version" value="600" />
           <int name="channel" value="-1" />
           <int name="minVelocity" value="0" />
@@ -577,7 +577,7 @@
           <member name="noteChanger">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="PSlotNoteChanger" ID="30852806">
+              <obj class="PSlotNoteChanger" ID="133915119">
                 <int name="channel" value="-1" />
                 <int name="minVelocity" value="0" />
                 <int name="maxVelocity" value="127" />
@@ -592,7 +592,7 @@
           <member name="midiMessages">
             <int name="ownership" value="1" />
             <list name="obj" type="obj">
-              <obj class="POutputEvent" ID="116000746">
+              <obj class="POutputEvent" ID="95864734">
                 <int name="status" value="144" />
                 <int name="data1" value="31" />
                 <int name="data2" value="120" />
@@ -606,7 +606,7 @@
         <member name="sv">
           <int name="ownership" value="2" />
           <list name="obj" type="obj">
-            <obj class="USlotVisuals" ID="86483064">
+            <obj class="USlotVisuals" ID="59700645">
               <int name="displaytype" value="1" />
               <int name="articulationtype" value="1" />
               <int name="symbol" value="0" />
